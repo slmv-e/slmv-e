@@ -1,7 +1,7 @@
 - 🖐️ Hello everyone, my name is Erik
 - 🌱 I’m currently learning in SUAI
 - 👨‍💻 I'm Junior Python developer
-- 📄 I know C++, Python, HTML, CSS programming languages
+- 📄 I know C++, Python, HTML, CSS and JavaScript (in progress) programming languages
 - 📈 In the future I wanna be FrontEnd-developer
 - 📊 I've Telegram bots, Site bots and DataBase development practice
 - 📫 How to reach me: Telegram - @n4mme
